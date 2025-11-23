@@ -5,8 +5,8 @@
 **Course:** [Introduction in Web Technologies](https://itmo-ict-faculty.github.io/introduction-in-web-tech/)  
 **Year:** 2025  
 **Group:** U4225  
-**Author:** Корепанов Андрей
-**Lab:** Lab0 1
+**Author:** Корепанов Андрей    
+**Lab:** Lab1   
 **Date of create:** 23.11.2025  
 **Date of finished:** 24.11.2025  
 
