@@ -12,10 +12,10 @@
 
 ## Ход работы
 1. Создание бакета 
-![alt text](< -.png>)
+![alt text](<2.png>)
 
 2. Загрузка картинок (3-4 картинки)
-![alt text](< --1.png>)
+![alt text](<1.png>)
 
 3. Создание папки
 ![alt text](<Pasted Graphic 24.png>)
