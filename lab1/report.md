@@ -14,7 +14,7 @@
 1. Создание сервисного аккаунта
 ![alt text](<Pasted Graphic 4.png>)
 
-2. Создание виртуальной машины (в настройках указана Control VM access through IAM permissions: true и указан сервисный аккаунт из пункта 1)
+2. Создание виртуальной машины
 ![alt text](<Pasted Graphic 2.png>)
 
 3. Запущенная машина
